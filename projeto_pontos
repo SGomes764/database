@@ -9,14 +9,14 @@
     {
         "titulo": "Local B",
         "descricao": "Descrição do Local B",
-        "img": "https://exemplo.com/imagemB.jpg",
+        "img": "https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Application-Default-icon.png",
         "latitude": 40.712776,
         "longitude": -74.005974
     },
     {
         "titulo": "Local C",
         "descricao": "Descrição do Local C",
-        "img": "https://exemplo.com/imagemC.jpg",
+        "img": "https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Application-Default-icon.png",
         "latitude": 34.052235,
         "longitude": -118.243683
     }

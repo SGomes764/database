@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "Local A",
+        "descricao": "Descrição do Local A",
+        "img": "https://exemplo.com/imagemA.jpg",
+        "latitude": -23.55052,
+        "longitude": -46.633307
+    },
+    {
+        "titulo": "Local B",
+        "descricao": "Descrição do Local B",
+        "img": "https://exemplo.com/imagemB.jpg",
+        "latitude": 40.712776,
+        "longitude": -74.005974
+    },
+    {
+        "titulo": "Local C",
+        "descricao": "Descrição do Local C",
+        "img": "https://exemplo.com/imagemC.jpg",
+        "latitude": 34.052235,
+        "longitude": -118.243683
+    }
+]

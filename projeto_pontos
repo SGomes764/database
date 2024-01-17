@@ -1,10 +1,10 @@
 [
     {
-        "titulo": "Local A",
-        "descricao": "Descrição do Local A",
-        "img": "https://exemplo.com/imagemA.jpg",
-        "latitude": -23.55052,
-        "longitude": -46.633307
+        "titulo": "Hospital da Luz",
+        "descricao": "Lisboa, Portugal",
+        "img": "https://www.flaticon.com/free-icon/hospital_179571",
+        "latitude": 38.7562042,
+        "longitude": -9.1950653
     },
     {
         "titulo": "Local B",

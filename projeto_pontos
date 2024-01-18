@@ -1,17 +1,45 @@
 [
     {
-        "titulo": "Hospital da Luz",
-        "descricao": "Lisboa, Portugal",
+        "titulo": "Hospital",
+        "descricao": "Hospital da Luz - Lisboa",
         "img": "https://pixlok.com/wp-content/uploads/2021/12/Hospital-Icon-98gbn.png",
         "latitude": 38.7562042,
         "longitude": -9.1950653
     },
     {
-        "titulo": "Local B",
-        "descricao": "Descrição do Local B",
+        "titulo": "Hospital",
+        "descricao": "Hospital Santo André - Leiria",
+        "img": "https://pixlok.com/wp-content/uploads/2021/12/Hospital-Icon-98gbn.png",
+        "latitude": 39.7416367,
+        "longitude": -8.8120446
+    },
+    {
+        "titulo": "Hospital",
+        "descricao": "Hospital São Francisco - Leira",
+        "img": "https://pixlok.com/wp-content/uploads/2021/12/Hospital-Icon-98gbn.png",
+        "latitude": 39.7487771,
+        "longitude": -8.815579
+    },
+    {
+        "titulo": "Aeroporto",
+        "descricao": "Aeroporto Humberto Delgado - Lisboa",
+        "img": "https://cdn-icons-png.flaticon.com/512/4353/4353032.png",
+        "latitude": 38.7794692,
+        "longitude": -9.1329677
+    },
+    {
+        "titulo": "Base Força Aéria",
+        "descricao": "Base Aéria 5 - Monte Real",
         "img": "https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Application-Default-icon.png",
-        "latitude": 40.712776,
-        "longitude": -74.005974
+        "latitude": 39.8331193,
+        "longitude": -8.8838599
+    },
+    {
+        "titulo": "CCEMS",
+        "descricao": "Centro de Competências entre Mar e Serra - Telheiro",
+        "img": "https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Application-Default-icon.png",
+        "latitude": 39.7210708,
+        "longitude": -8.8047109
     },
     {
         "titulo": "Local C",

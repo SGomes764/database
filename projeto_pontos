@@ -3,43 +3,43 @@
         "titulo": "Hospital",
         "descricao": "Hospital da Luz - Lisboa",
         "img": "https://cdn-icons-png.flaticon.com/512/3580/3580415.png",
-        "latitude": 38.7562042,
-        "longitude": -9.1950653
+        "latitude": 38.756464,
+        "longitude": -9.192985
     },
     {
         "titulo": "Hospital",
         "descricao": "Hospital Santo André - Leiria",
         "img": "https://cdn-icons-png.flaticon.com/512/4320/4320371.png",
-        "latitude": 39.7416367,
-        "longitude": -8.8120446
+        "latitude": 39.743539,
+        "longitude": -8.794270
     },
     {
         "titulo": "Hospital",
         "descricao": "Hospital São Francisco - Leira",
         "img": "https://cdn-icons-png.flaticon.com/512/10475/10475894.png",
-        "latitude": 39.7487771,
-        "longitude": -8.815579
+        "latitude": 39.748917,
+        "longitude": -8.815738
     },
     {
         "titulo": "Aeroporto",
         "descricao": "Aeroporto Humberto Delgado - Lisboa",
         "img": "https://cdn-icons-png.flaticon.com/512/11510/11510915.png",
-        "latitude": 38.7794692,
-        "longitude": -9.1329677
+        "latitude": 38.769048,
+        "longitude": -9.128344
     },
     {
         "titulo": "Base Força Aéria",
         "descricao": "Base Aéria 5 - Monte Real",
         "img": "https://cdn-icons-png.flaticon.com/512/3857/3857534.png",
-        "latitude": 39.8331193,
-        "longitude": -8.8838599
+        "latitude": 39.833151,
+        "longitude": -8.881528
     },
     {
         "titulo": "CCEMS",
         "descricao": "Centro de Competências entre Mar e Serra - Telheiro",
         "img": "https://www.ccems.pt/wp-content/uploads/2015/07/ccems800.png",
-        "latitude": 39.7210708,
-        "longitude": -8.8047109
+        "latitude": 39.721007,
+        "longitude": -8.804615
     },
     {
         "titulo": "Local C",

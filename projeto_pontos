@@ -1,11 +1,5 @@
 [
-    {
-        "titulo": "Hospital",
-        "descricao": "Hospital da Luz - Lisboa",
-        "img": "https://cdn-icons-png.flaticon.com/512/3580/3580415.png",
-        "latitude": 38.756464,
-        "longitude": -9.192985
-    },
+
     {
         "titulo": "Hospital",
         "descricao": "Hospital Santo André - Leiria",
@@ -21,11 +15,32 @@
         "longitude": -8.815738
     },
     {
-        "titulo": "Aeroporto",
-        "descricao": "Aeroporto Humberto Delgado - Lisboa",
-        "img": "https://cdn-icons-png.flaticon.com/512/11510/11510915.png",
-        "latitude": 38.769048,
-        "longitude": -9.128344
+        "titulo": "Hospital",
+        "descricao": "Hospital da Luz - Lisboa",
+        "img": "https://cdn-icons-png.flaticon.com/512/3580/3580415.png",
+        "latitude": 38.756464,
+        "longitude": -9.192985
+    },
+    {
+        "titulo": "GNR",
+        "descricao": "Comando Territorial - Leiria",
+        "img": "https://cdn-icons-png.flaticon.com/512/3580/3580415.png",
+        "latitude": 39.744895,
+        "longitude": -8.811437
+    },
+    {
+        "titulo": "PSP",
+        "descricao": "Divisão Policial - Leiria",
+        "img": "https://cdn-icons-png.flaticon.com/512/3580/3580415.png",
+        "latitude": 39.746932,
+        "longitude": -8.807614
+    },
+    {
+        "titulo": "Base Militar",
+        "descricao": "Regimento de Artilharia Nº4 - Leiria",
+        "img": "https://cdn-icons-png.flaticon.com/512/3857/3857534.png",
+        "latitude": 39.726415,
+        "longitude": -8.806399
     },
     {
         "titulo": "Base Força Aéria",
@@ -40,12 +55,5 @@
         "img": "https://cf.ccems.pt/assets/img/RCAlogo.png",
         "latitude": 39.721007,
         "longitude": -8.804615
-    },
-    {
-        "titulo": "Local C",
-        "descricao": "Descrição do Local C",
-        "img": "https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Application-Default-icon.png",
-        "latitude": 34.052235,
-        "longitude": -118.243683
     }
 ]

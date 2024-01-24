@@ -4,35 +4,35 @@
             "id": 1,
             "img": "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
             "titulo": "C++",
-            "descricao": "Asset 1",
+            "descricao": "Descrição 1",
             "nota": 0.0
         },
         {
             "id": 2,
             "img": "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
             "titulo": "C#",
-            "descricao": "Asset 2",
+            "descricao": "Descrição 2",
             "nota": 0.0
         },
         {
             "id": 3,
             "img": "https://cdn-icons-png.flaticon.com/512/5968/5968259.png",
             "titulo": "Haskell",
-            "descricao": "Asset 3",
+            "descricao": "Descrição 3",
             "nota": 0.0
         },
         {
             "id": 4,
             "img": "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",
             "titulo": "HTML",
-            "descricao": "Asset 4",
+            "descricao": "Descrição 4",
             "nota": 0.0
         },
         {
             "id": 5,
             "img": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
             "titulo": "Java",
-            "descricao": "Asset 5",
+            "descricao": "Descrição 5",
             "nota": 0.0
         },
         {

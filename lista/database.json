@@ -26,49 +26,56 @@
             "img": "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",
             "titulo": "HTML",
             "descricao": "Descrição 4",
-            "nota": 0.0
+            "nota": 0.0,
+            "zipUrl": "https://raw.githubusercontent.com/SGomes764/database/lista/main/"
         },
         {
             "id": 5,
             "img": "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
             "titulo": "Java",
             "descricao": "Descrição 5",
-            "nota": 0.0
+            "nota": 0.0,
+            "zipUrl": ""
         },
         {
             "id": 6,
             "img": "https://cdn-icons-png.flaticon.com/512/11570/11570191.png",
             "titulo": "JSON",
             "descricao": "Descrição 6",
-            "nota": 0.0
+            "nota": 0.0,
+            "zipUrl": ""
         },
         {
             "id": 7,
             "img": "https://cdn-icons-png.flaticon.com/512/5968/5968332.png",
             "titulo": "PHP",
             "descricao": "Descrição 7",
-            "nota": 0.0
+            "nota": 0.0,
+            "zipUrl": ""
         },
         {
             "id": 8,
             "img": "https://cdn-icons-png.flaticon.com/512/3098/3098090.png",
             "titulo": "Python",
             "descricao": "Descrição 8",
-            "nota": 0.0
+            "nota": 0.0,
+            "zipUrl": ""
         },
         {
             "id": 9,
             "img": "https://cdn-icons-png.flaticon.com/512/4248/4248443.png",
             "titulo": "SQL",
             "descricao": "Descrição 9",
-            "nota": 0.0
+            "nota": 0.0,
+            "zipUrl": ""
         },
         {
             "id": 10,
             "img": "https://cdn-icons-png.flaticon.com/512/5968/5968381.png",
             "titulo": "TypeScript",
             "descricao": "Descrição 10",
-            "nota": 0.0
+            "nota": 0.0,
+            "zipUrl": ""
         }
     ]
 }

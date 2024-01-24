@@ -1,0 +1,74 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "img": "assets/img/c-.png",
+            "titulo": "C++",
+            "descricao": "Asset 1",
+            "nota": 0.0
+        },
+        {
+            "id": 2,
+            "img": "assets/img/c-sharp.png",
+            "titulo": "C#",
+            "descricao": "Asset 2",
+            "nota": 0.0
+        },
+        {
+            "id": 3,
+            "img": "assets/img/haskell.png",
+            "titulo": "Haskell",
+            "descricao": "Asset 3",
+            "nota": 0.0
+        },
+        {
+            "id": 4,
+            "img": "assets/img/html.png",
+            "titulo": "HTML",
+            "descricao": "Asset 4",
+            "nota": 0.0
+        },
+        {
+            "id": 5,
+            "img": "assets/img/java.png",
+            "titulo": "Java",
+            "descricao": "Asset 5",
+            "nota": 0.0
+        },
+        {
+            "id": 6,
+            "img": "assets/img/folder.png",
+            "titulo": "JSON",
+            "descricao": "Descrição 6",
+            "nota": 0.0
+        },
+        {
+            "id": 7,
+            "img": "assets/img/php.png",
+            "titulo": "PHP",
+            "descricao": "Descrição 7",
+            "nota": 0.0
+        },
+        {
+            "id": 8,
+            "img": "assets/img/python.png",
+            "titulo": "Python",
+            "descricao": "Descrição 8",
+            "nota": 0.0
+        },
+        {
+            "id": 9,
+            "img": "assets/img/database.png",
+            "titulo": "SQL",
+            "descricao": "Descrição 9",
+            "nota": 0.0
+        },
+        {
+            "id": 10,
+            "img": "assets/img/typescript.png",
+            "titulo": "TypeScript",
+            "descricao": "Descrição 10",
+            "nota": 0.0
+        }
+    ]
+}

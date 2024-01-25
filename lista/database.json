@@ -37,35 +37,35 @@
         },
         {
             "id": 6,
-            "img": "https://cdn-icons-png.flaticon.com/512/11570/11570191.png",
+            "img": "",
             "titulo": "JSON",
             "descricao": "Descrição 6",
             "nota": 0.0
         },
         {
             "id": 7,
-            "img": "https://cdn-icons-png.flaticon.com/512/5968/5968332.png",
+            "img": "",
             "titulo": "PHP",
             "descricao": "Descrição 7",
             "nota": 0.0
         },
         {
             "id": 8,
-            "img": "https://cdn-icons-png.flaticon.com/512/3098/3098090.png",
+            "img": "",
             "titulo": "Python",
             "descricao": "Descrição 8",
             "nota": 0.0
         },
         {
             "id": 9,
-            "img": "https://cdn-icons-png.flaticon.com/512/4248/4248443.png",
+            "img": "",
             "titulo": "SQL",
             "descricao": "Descrição 9",
             "nota": 0.0
         },
         {
             "id": 10,
-            "img": "https://cdn-icons-png.flaticon.com/512/5968/5968381.png",
+            "img": "",
             "titulo": "TypeScript",
             "descricao": "Descrição 10",
             "nota": 0.0

@@ -31,38 +31,23 @@
         },
         {
             "id": 6,
-            "img": "",
-            "titulo": "JSON",
-            "descricao": "Descrição 6",
-            "nota": 0.0
+            "img": ""
         },
         {
             "id": 7,
-            "img": "",
-            "titulo": "PHP",
-            "descricao": "Descrição 7",
-            "nota": 0.0
+            "img": ""
         },
         {
             "id": 8,
-            "img": "",
-            "titulo": "Python",
-            "descricao": "Descrição 8",
-            "nota": 0.0
+            "img": ""
         },
         {
             "id": 9,
-            "img": "",
-            "titulo": "SQL",
-            "descricao": "Descrição 9",
-            "nota": 0.0
+            "img": ""
         },
         {
             "id": 10,
-            "img": "",
-            "titulo": "TypeScript",
-            "descricao": "Descrição 10",
-            "nota": 0.0
+            "img": ""
         }
     ]
 }
